@@ -16,6 +16,4 @@
  ![c](https://github.com/jatin192/jatin192/assets/73174196/97ded0c1-566d-4071-b070-9ac93a3f4e32)
  ![hardhat-seeklogo-com](https://github.com/jatin192/jatin192/assets/73174196/4bb7b1f8-96ca-4a34-bc2c-b74f6d942800)
  ![solana-sol-icon](https://github.com/jatin192/jatin192/assets/73174196/baf62b16-894b-4841-9b42-a08584fb6902)
- ![web-3-icon](https://github.com/jatin192/jatin192/assets/73174196/214e58fe-4f41-40ee-8641-3ef853dca48d)
  ![rust-programming-language-icon](https://github.com/jatin192/jatin192/assets/73174196/856d6815-2a09-479c-8083-6ad6b268804e)
- ![solidity-icon (1)](https://github.com/jatin192/jatin192/assets/73174196/106ec6f2-21ad-47f6-b4dd-4d082d7b61a5)
