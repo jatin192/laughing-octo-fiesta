@@ -1,4 +1,4 @@
-I'm  Independent smart contract Auditor
+#### I'm  Independent Smart Contract Auditor
 # Skills
 
 ![bitcoin](https://github.com/jatin192/jatin192/assets/73174196/f7625ccb-0641-44ca-84a8-60f6fb8f519b)  ![ethereum (1)](https://github.com/jatin192/jatin192/assets/73174196/68d195c5-fec9-4745-8ee2-6c86ffdf3902)
