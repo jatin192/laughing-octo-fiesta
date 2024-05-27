@@ -1,3 +1,7 @@
+Highly motivated Blockchain security researcher with a meticulous eye for detail. Proven ability to identify and remediate
+vulnerabilities in smart contracts, DeFi/dApps, and open-source projects. Proactively dedicate research time to explore cutting-edge
+blockchain technologies, ensuring a deep understanding of evolving security threats and best practices.
+
 # Skills
 
 ![bitcoin](https://github.com/jatin192/jatin192/assets/73174196/f7625ccb-0641-44ca-84a8-60f6fb8f519b)  ![ethereum (1)](https://github.com/jatin192/jatin192/assets/73174196/68d195c5-fec9-4745-8ee2-6c86ffdf3902)
