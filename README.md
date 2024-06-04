@@ -1,3 +1,5 @@
+# Shri J. S.
+
 Highly motivated Blockchain security researcher with a meticulous eye for detail. Proven ability to identify and remediate
 vulnerabilities in smart contracts, DeFi/dApps, and open-source projects. Proactively dedicate research time to explore cutting-edge
 blockchain technologies, ensuring a deep understanding of evolving security threats and best practices.
